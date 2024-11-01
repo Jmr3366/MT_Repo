@@ -2,5 +2,5 @@
 MapTool Generic Repository
 
 # Lib_TokenSweeper
-![alt text](https://github.com/Jmr3366/Lib_SpellLibrary/blob/main/Lib_TokenSweeper.webp?raw=true)
+![alt text](https://github.com/Jmr3366/MT_Repo/raw/refs/heads/main/Lib_TokenSweeper.webp)
 Drop-in Token that allows you to cleanse any property off a token
